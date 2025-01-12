@@ -1,0 +1,6 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm'
+}
+
+group = 'io.cheonkyu'
+version = '0.0.1-SNAPSHOT'
